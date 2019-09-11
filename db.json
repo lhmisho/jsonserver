@@ -25,65 +25,6 @@
       }
     ]
   },
-  "themeOneHeroSection": {
-    "heading": "Awesome App Landing Page",
-    "content": "Our software platform and custom development allow healthcare institutions to create comprehensive cross-platform solutions that ensure positive patient experiences.",
-    "image": "/img/waves-shape.svg",
-    "sliderImage": "/img/iphone-x-frame.png",
-    "phoneImage": [
-      {
-        "id": 1,
-        "image": "/img/top-screen-1.png"
-      },
-      {
-        "id": 2,
-        "image": "/img/top-screen-5.png"
-      },
-      {
-        "id": 3,
-        "image": "/img/top-screen-2.png"
-      },
-      {
-        "id": 4,
-        "image": "/img/top-screen-6.png"
-      },
-      {
-        "id": 5,
-        "image": "/img/top-screen-3.png"
-      },
-      {
-        "id": 6,
-        "image": "/img/top-screen-7.png"
-      },
-      {
-        "id": 7,
-        "image": "/img/top-screen-8.png"
-      }
-    ],
-    "slider_action_data": [
-      {
-        "id": 1,
-        "link": "apple",
-        "btnClass": "btn softo-solid-btn",
-        "faClass": "fa fa-apple",
-        "value": "Appstore"
-      },
-      {
-        "id": 2,
-        "link": "android",
-        "btnClass": "btn btn-icon",
-        "faClass": "fa fa-android",
-        "value": ""
-      },
-      {
-        "id": 3,
-        "link": "windows",
-        "btnClass": "btn btn-icon",
-        "faClass": "fa fa-windows",
-        "value": ""
-      }
-    ]
-  },
   "themeOnePromoSection": {
     "promoData": [
       {
@@ -187,40 +128,6 @@
       }
     ]
   },
-  "themeOneTestimonial": {
-    "heading": "10k+ Experts Trust Us",
-    "content": "Streamlining different processes and workflows by using user access control Onebook prompts efficiency and productivity levels of an organization, and reduces operating costs.",
-    "person": [
-      {
-        "id": 1,
-        "name": "Beatrice Evans",
-        "designation": "Digital Marketer",
-        "image": "/img/testimonial-4.png",
-        "openion": "Professionally grow backward-compatible data without tactical alignments. Completely whiteboard cooperative schemas rather than cross-platform intellectual capital. Quickly benchmark wireless relationships via client-centered models."
-      },
-      {
-        "id": 2,
-        "name": "Beatrice Evans",
-        "designation": "Digital Marketer",
-        "image": "/img/testimonial-4.png",
-        "openion": "Professionally grow backward-compatible data without tactical alignments. Completely whiteboard cooperative schemas rather than cross-platform intellectual capital. Quickly benchmark wireless relationships via client-centered models."
-      },
-      {
-        "id": 3,
-        "name": "Beatrice Evans",
-        "designation": "Digital Marketer",
-        "image": "/img/testimonial-4.png",
-        "openion": "Professionally grow backward-compatible data without tactical alignments. Completely whiteboard cooperative schemas rather than cross-platform intellectual capital. Quickly benchmark wireless relationships via client-centered models."
-      },
-      {
-        "id": 4,
-        "name": "Beatrice Evans",
-        "designation": "Digital Marketer",
-        "image": "/img/testimonial-4.png",
-        "openion": "Professionally grow backward-compatible data without tactical alignments. Completely whiteboard cooperative schemas rather than cross-platform intellectual capital. Quickly benchmark wireless relationships via client-centered models."
-      }
-    ]
-  },
   "themeOneFaqSection": {
     "heading": "Faq's",
     "content": "we believe in making simple and fair pricing plans. Choose your next successful planand get started today!.",
@@ -273,36 +180,6 @@
         "category": "Windows",
         "iconClass": "ti-microsoft",
         "extraaClass": ""
-      }
-    ]
-  },
-  "themeOneBlogSection": {
-    "heading": "Latest News",
-    "content": "Streamlining different processes and workflows by using user access control Onebook prompts efficiency and productivity levels of an organization, and reduces operating costs.",
-    "data": [
-      {
-        "id": 1,
-        "image": "/img/blog-img1.jpg",
-        "heading": "Continually reinvent",
-        "content": "Professionally grow technically sound technologies with fully researched metrics. Assertively embrace empowered."
-      },
-      {
-        "id": 2,
-        "image": "/img/blog-img2.jpg",
-        "heading": "Competently impact strategic",
-        "content": "Professionally grow technically sound technologies with fully researched metrics. Assertively embrace empowered."
-      },
-      {
-        "id": 3,
-        "image": "/img/blog-img3.jpg",
-        "heading": "Rapidiously predominate just",
-        "content": "Appropriately develop high-payoff catalysts for change after premier e-markets. Interactively maximize pandemic niche markets."
-      },
-      {
-        "id": 4,
-        "image": "/img/blog-img4.jpg",
-        "heading": "Interactively productize low-risk",
-        "content": "Appropriately develop high-payoff catalysts for change after premier  e-markets. Interactively maximize pandemic niche markets."
       }
     ]
   },
