@@ -154,33 +154,5 @@
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl lorem, dictum id pellentesque at, vestibulum ut arcu. Curabitur erat libero, egestas eu tincidunt ac, rutrum ac justo. Vivamus condimentum laoreet lectus, blandit posuere tortor aliquam vitae. Curabitur molestie eros.,"
       }
     ]
-  },
-  "themeOneDownloadSection": {
-    "heading": "Get The App Now !",
-    "content": "Seamlessly transform timely e-commerce for diverse leadership skills. Conveniently reconceptualize go forward expertise without extensible applications.Phosfluorescently.",
-    "image": "/img/download-app.png",
-    "data": [
-      {
-        "id": 1,
-        "heaing": "Download On",
-        "category": "App Store",
-        "iconClass": "ti-apple",
-        "extraaClass": "hover-active"
-      },
-      {
-        "id": 2,
-        "heaing": "Git It On",
-        "category": "Google Play",
-        "iconClass": "ti-android",
-        "extraaClass": ""
-      },
-      {
-        "id": 3,
-        "heaing": "Download On",
-        "category": "Windows",
-        "iconClass": "ti-microsoft",
-        "extraaClass": ""
-      }
-    ]
   }
 }
